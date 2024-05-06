@@ -7,7 +7,7 @@ TBD
 - ![florianb053@gmail.com](Florian Benscheidt) (owner, **temporary** kanban/scrum master)
 - Roy Honders (owner)
 - Jelmer Overeem (developer)
-- Oskar Paulsson (Developer) oskar@paulsson.dev
+- [oskar@paulsson.dev](Oskar Paulsson) (Developer) oskar@paulsson.dev
 <br><br>
 ...
 <br><br>
